@@ -31,7 +31,7 @@ export class Rules extends React.Component {
                 dans une position et une couleur correctes. 
                 Un carré jaune indique l'existence d'une couleur
                  correcte dans une position incorrecte. <br />
-                 Plus d'infos sur<a href={link}>Wikipedia</a>.
+                 Plus d'infos sur<a href={link} target='_blank'>Wikipedia</a>.
                 </p>
             </div>
         )
