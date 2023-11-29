@@ -12,7 +12,7 @@ html {
 
 #root h2 {
   font-size: 2em;
-  color: white;
+  color: #01d3f2;
   margin: 0.67em 0 0.15em 0;  
 }
 
@@ -128,13 +128,11 @@ html {
 }
 
 .board .ok-button.disabled {
-  color: #CCC0C6;
-  cursor: default;
+  color: #01d3f2;
 }
 
 .board .ok-button.hidden {
   display: none;
-  cursor: default;
 }
 
 .board .row {
@@ -150,7 +148,7 @@ html {
 }
 
 .board .hints {
-  margin-right: 0;
+  margin-right: 0.5rem;
 } 
 
 .board .hints span {
