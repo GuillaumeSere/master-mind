@@ -1,2 +1,3 @@
 
-![20230626161418](https://github.com/GuillaumeSere/master-mind/assets/75996200/57da595b-057a-4fa4-82f0-60a387939bbc)
+
+![20231129214043](https://github.com/GuillaumeSere/master-mind/assets/75996200/9a2a4b44-f54b-48b9-89a5-f1f12341c986)
