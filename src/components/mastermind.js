@@ -8,7 +8,7 @@ export class Mastermind extends React.Component {
     render() {
       return (
       <div className='container'>
-        <span class="span2">QR CODE Du Site</span>
+        <span className="span2">QR CODE Du Site</span>
         <img src={qr} alt="" />
         <h2 className='title'> MasterMind </h2>
         <Rules />
